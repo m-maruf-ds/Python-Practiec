@@ -1,0 +1,6 @@
+name = input("Enter name: ")
+age = int(input("Enter age: "))
+cgpa = float(input("Enter GPA: "))
+print(f"Name: {name}")
+print(f"Age: {age}")
+print(f"CGPA: {cgpa:.2f}")
